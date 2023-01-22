@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Maro\Documents\Tutorials\Microservices\JavaExerSBBestPractices\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3590906450.index
+3624250577.index
+36638596.index
+3706301197.index
